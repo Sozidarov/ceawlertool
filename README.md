@@ -22,6 +22,9 @@ Ceawler — это инструмент для поиска информации
 - Поиск через браузер (`--cbrowser`) происходит так (`python main.py --cbrowser`)
 - Поиск по номеру телефона (`--phone`) происходит так (`python main.py --phone {номер телефона}`)
 
+## Web-Sait
+Sait - sozidarov.github.io/ceawler/
+
 ## Donate
 💎 Tonkeeper - UQAhClEY19hGPVpZoGHRU4FOHZ4NTz51wEkKOFTmf4wh4hau
 
