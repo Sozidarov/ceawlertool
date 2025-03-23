@@ -15,3 +15,10 @@ Ceawler — это инструмент для поиска информации
    cd ceawler
    pip install -r requirements.txt
    python main.py
+
+## Использование
+- Поиск по имени пользователя (`--username`) происходит так (`python main.py --username {имя-пользователя}`)
+- Поиск по email (`--email`) происходит так (`python main.py --email {email}`)
+- Поиск через браузер (`--cbrowser`) происходит так (`python main.py --cbrowser`)
+- Поиск по номеру телефона (`--phone`) происходит так (`python main.py --phone {номер телефона}`)
+
