@@ -15,11 +15,10 @@ Ceawler — это инструмент для поиска информации
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/sozidarov/ceawlertool.git
+   cd ceawlertool
    cd ceawler
    pip install -r requirements.txt
    python main.py
-   cd ceawlertool
-   cd ceawler
 
 ## Использование
 - Поиск по имени пользователя (`--username`) происходит так (`python main.py --username {имя-пользователя}`)
