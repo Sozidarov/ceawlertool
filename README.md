@@ -14,7 +14,7 @@ Ceawler — это инструмент для поиска информации
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/g2jt3/ceawlertool.git
+   git clone https://github.com/sozidarov/ceawlertool.git
    cd ceawler
    pip install -r requirements.txt
    python main.py
