@@ -25,3 +25,6 @@ Ceawler — это инструмент для поиска информации
 ## Donate
 💎 Tonkeeper - UQAhClEY19hGPVpZoGHRU4FOHZ4NTz51wEkKOFTmf4wh4hau
 
+## Telegram Channel
+Telegram Channel - @devceawler | devceawler.t.me | t.me/devceawler
+
